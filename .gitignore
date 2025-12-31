@@ -1,0 +1,19 @@
+.ipynb_checkpoints/
+*.xlsx
+.idea/
+__pycache__/
+.DS_Store
+*.pyc
+figure/
+doc/
+model/
+search.py
+
+# 大文件和数据文件
+*.pkl
+*.zip
+*.tsv
+data/MIND_Large/MIND_large/**/*.tsv
+data/MIND_Large/MIND_large/**/*.zip
+data/**/*.pkl
+log/*.txt

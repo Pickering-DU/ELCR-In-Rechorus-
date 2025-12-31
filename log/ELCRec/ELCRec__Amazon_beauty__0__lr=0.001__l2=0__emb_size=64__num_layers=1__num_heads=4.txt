@@ -1,0 +1,32 @@
+INFO:root:Namespace(model_name='ELCRec', model_mode='')
+INFO:root:--------------------------------------------- BEGIN: 2025-12-27 17:14:01 ---------------------------------------------
+INFO:root:
+====================================
+ Arguments          | Values        
+====================================
+ alpha              | 10.0         
+ batch_size         | 256          
+ cluster_k          | 256          
+ data_appendix      |              
+ dataset            | Amazon_beauty
+ dropout            | 0            
+ early_stop         | 10           
+ emb_size           | 64           
+ epoch              | 200          
+ eval_batch_size    | 256          
+ gpu                | 0            
+ history_max        | 20           
+ l2                 | 0            
+ lr                 | 0.001        
+ num_heads          | 4            
+ num_layers         | 1            
+ num_neg            | 1            
+ num_workers        | 5            
+ optimizer          | Adam         
+ random_seed        | 0            
+ save_final_results | 1            
+ test_all           | 0            
+ topk               | 5,10,20      
+====================================
+INFO:root:Device: cpu
+INFO:root:Reading data from "data/", dataset = "Amazon_beauty" 
