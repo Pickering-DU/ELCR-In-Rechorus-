@@ -180,7 +180,7 @@ L = L_next + α * L_cluster + w_cl * (L_seqcl + L_intent)
 
 如有问题或建议，请通过以下方式联系：
 - 提交 Issue
-- 发送邮件至：[your-email@example.com]
+- 发送邮件至：[dusr@mail2.sysu.edu.cn]
 
 ---
 
